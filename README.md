@@ -56,6 +56,3 @@ Use nix via [`devenv`](https://devenv.sh/getting-started/) to guarantee a
 consistent environment.\
 Combine with [`direnv`](https://devenv.sh/automatic-shell-activation/) for
 automatic shell activation.
-
-
-#test
