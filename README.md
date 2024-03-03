@@ -47,7 +47,7 @@ just setup
 # create mock data
 just populate
 # run the dev server
-just runserver
+just run
 ```
 
 ### Reproducible Dev Environment (optional)
